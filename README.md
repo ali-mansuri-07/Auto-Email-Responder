@@ -35,12 +35,12 @@ Install the dependencies:
 
 ## Gmail Account:
 
-- Open the config.json file in the root directory.
-- Replace "YOUR_EMAIL_ADDRESS" with your Gmail email address.
+- Open the credentials.json file in the root directory.
+- Replace "VARIABLES" with your auth keys.
 - Save the file.
 - Random Intervals:
 
-- Open the config.json file in the root directory.
+- Open the index.js file in the root directory.
 - Adjust the values of "minInterval" and "maxInterval" according to your desired random intervals in seconds.
 - Save the file.
 - Usage
