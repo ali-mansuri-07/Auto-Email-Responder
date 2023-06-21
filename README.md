@@ -19,10 +19,6 @@ Automatic email responding application:
 ### `git clone https://github.com/ali-mansuri-07/Auto-Email-Responder.git`
 
 ## Navigate to the project directory:
-
-Copy code
-### `cd challenge-app`
-
 Install the dependencies:
 
 ### `npm install`
